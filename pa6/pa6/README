@@ -1,0 +1,21 @@
+Colton Jeffrey
+cwjeffre
+pa6
+
+files included for pa6:
+
+
+
+Arithmetic.cpp        - BigInteger ADT client file
+                        takes BigIntegers A and B from in file
+                        and performs various arithmetic operations
+                        and outputs result to out file
+BigInteger.cpp        - BigInteger ADT implementation file
+BigInteger.h          - BigInteger ADT header file
+BigIntegerTest.cpp    - BigInteger test file
+List.cpp              - List ADT implementation file
+List.h                - List ADT header file 
+ListTest.cpp          - Tests file for List ADT
+Makefile              - complies and creates executables
+README                - describes file in directory
+
