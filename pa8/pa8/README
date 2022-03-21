@@ -1,0 +1,13 @@
+files included for pa8
+
+README
+Makefile
+Dictionary.h          - Dictionary ADT header file
+Dictionary.cpp        - Dictionary ADT implementation file
+DictionaryTest.cpp    - Dictionary ADT test file
+Order.cpp             - Dictionary ADT client file 
+                        takes input from a file and send output to file 
+                        from comand line. outputs an sorted dictionary with 
+                        keys and values as well as a pre order string 
+                        to show the structure of the underlying 
+                        Red-Black Tree
