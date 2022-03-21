@@ -1,0 +1,10 @@
+
+files included for pa4
+
+List.h         - list ADT header file
+List.c         - list ADT implementation file
+Matrix.h       - Matrix ADT header file
+Matrix.c       - Matrix ADT implementation file
+Sparse.c       - takes file input and outputs matrix ops to a file
+MatrixTest.c   - testfile for Matrix ADT
+ListTest.c     - testfile for List ADT
