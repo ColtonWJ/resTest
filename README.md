@@ -1,2 +1,2 @@
 # resTest
-fubar
+Projects included for Resume and application purposes
